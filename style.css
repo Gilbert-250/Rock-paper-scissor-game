@@ -92,7 +92,7 @@ button{
     margin-bottom: 50px;
     position: absolute;
     bottom: 0px;
-    top:700px;
+    top:600px;
 }
 .remove:hover{
     margin-top: 0px;
@@ -103,5 +103,5 @@ button{
     margin-bottom: 50px;
     position: absolute;
     transition: 0.3s;
-    top:700px;
+    top:600px;
 }
